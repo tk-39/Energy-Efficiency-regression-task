@@ -1,6 +1,6 @@
 # Energy-Efficiency-regression-task
 
-A machine learning regression task consisting of analysing energy efficiecny.
+A machine learning regression task consisting of analysing energy efficiency.
 
 The task is based on an energy efficiency prediction problem which is a regression problem. More specifically, to perform an analysis using different building shapes, with different characteristics, and predict the heating load of the building. The buildings differ with respect to the glazing area, the glazing area distribution, the orientation, and other aspects comprised in the dataset.
 
